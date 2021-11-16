@@ -16,7 +16,7 @@ This application uses unsupervised machine learning tools including KMeans and P
 This prodject uses Python 3.7 with the following packages:
 * ### **os** - Allows inreaction with the operating system
 * ### **pandas** - A package of intuitive data analysis tools
-* ### **hvplot** - Creates static plots from API's with feetures like hovering, zooming, and scanning
+* ### **hvplot** - Creates static plots from API's with features like hovering, zooming, and scanning
 * ### **pathlib** - To format file imported and saved
 * ### **scikit** - Libraby of machine learning tools
 
